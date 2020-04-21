@@ -8,7 +8,7 @@ This notebook is meant to track my attempt at doing something productive during 
 
 - [x] Set up github repository
 - [x] Chapter 0 & 1 - 4/9/20
-- [ ] Chapter 2 – Flow Control
+- [x] Chapter 2 – Flow Control - 4/20/20
 - [ ] Chapter 3 – Functions
 - [ ] Chapter 4 – Lists
 - [ ] Chapter 5 – Dictionaries and Structuring Data
